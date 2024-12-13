@@ -1,1 +1,4 @@
-this is major wip
+<p align="center"><img src="https://64.media.tumblr.com/ecc5858c57557fcc5416df70c0e25e8d/973f37d9368b2c9d-15/s2048x3072/695ed078c41ea948dceac53226601c2e11d8e0ba.pnj">
+<p align="center"><img src="https://64.media.tumblr.com/ab1f6bc170b5ad5cfc4fd918577823a2/784287e938983fc8-78/s2048x3072/202a3e48bb91074386c921b326048be9451496cc.pnj" width="700">
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="300">
+<p align="center"><img src="https://64.media.tumblr.com/11923a568f5fed93b4cea06885fcafc7/c3ae5378fa1764af-b8/s1280x1920/3047b6844093c15d5df4ce78609be75d8e8123a5.gifv">
